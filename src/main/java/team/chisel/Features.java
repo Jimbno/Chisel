@@ -1592,7 +1592,7 @@ public enum Features {
         }
     },
 
-    Hempcrete {
+    HEMPCRETE {
 
         @Override
         void addBlocks() {
@@ -1625,7 +1625,7 @@ public enum Features {
         }
     },
 
-    Hempcrete_Sand {
+    HEMPCRETE_SAND {
 
         @Override
         void addBlocks() {
